@@ -1,0 +1,23 @@
+* {
+  background-color: rgb(241, 185, 237);
+}
+
+div {
+  background-color: aqua;
+}
+
+.abc {
+  background-color: burlywood;
+  color: red;
+  border:5px double rgb(119, 119, 194);
+  border-radius: 10px;
+}
+
+
+h1 {
+  background-color: blue;
+}
+
+#head1 {
+  background-color: red;
+}
